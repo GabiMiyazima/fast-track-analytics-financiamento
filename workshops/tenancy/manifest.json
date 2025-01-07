@@ -1,0 +1,47 @@
+{
+    "workshoptitle": "Descobrindo mais insights com OAC - Dados Financeiros",
+    "include": {"starter-file.sql":"../../data-load/files/starter-file.sql",
+                "sample.json":"../../data-load/files/sample.json",
+                "step2.md":"../../data-load/files/step2.md"},
+    "variables": ["../../variables/variables.json",
+                 "../../variables/variables-in-another-file.json"],
+    "help": "isabella.alvarez@oracle.com, breno.comin@oracle.com, thais.henrique@oracle.com, gabriela.miyazima@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introdução",
+            "description": "Bem-vindo ao Workshop de OAC - com Dados Financeiros",
+            "filename": "../../intro/intro.md"
+        
+        },
+        {
+            "title": "Lab 1: Primeiros passos no Oracle Analytics Cloud",
+            "description": "Navega pelo Oracle Analytics Cloud",
+            "filename": "../../ft-first-steps-bt/ft-first-steps-bt.md" 
+        },
+        {
+            "title": "Lab 4: Crie Visualizações - Primeiros Passos",
+            "description": "Explore os recursos do Oracle Analytics Cloud para criar visualizações",
+            "filename": "../../ft-create-visualizations/ft-create-visualizations.md"
+        },
+        {
+            "title": "Lab 5: Crie Visualizações - Avançado",
+            "description": "Explora mais os tipos de gráficos oferecidos pelo Oracle Analytics Cloud",
+            "filename": "../../ft-advanced-visualizations/ft-advanced-visualizations.md"
+        },
+        {
+            "title": "Lab 6: Apresentar e Exportar os Dashboards",
+            "description": "Conheça as opções de apresentação e exportação disponíveis no Oracle Analytics Cloud (OAC)",
+            "filename": "../../ft-presentation/ft-presentation.md"
+          },
+        {
+            "title": "Lab 7: Atividades Administrativas (Opcional)",
+            "description": "Aprenda a executar atividades de administração da instância",
+            "filename": "../../ft-oac-management/ft-oac-management.md"
+        },
+        {
+            "title": "Need Help?",
+            "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+            "filename":"https://oracle-livelabs.github.io/common/labs/need-help/need-help-freetier.md"
+        }
+    ]
+}
