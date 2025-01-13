@@ -15,6 +15,28 @@ Nesse Lab você vai aprender a criar visualizações no Oracle Analytics Cloud.
 * Construir um dashboard com gráficos de diferentes tipos
 * Alterar propriedades dos gráficos e fazer uso de funcionalidades complementares para personalizar o dashboard
 
+
+## Tarefa 0: Importar Conjunto de Dados
+
+Para iniciar o laboratório, primeiro você irá importar o arquivo a seguir para o Oracle Analytics Cloud para já ter o conjunto de dados preparado e pronto para uso. 
+
+1.  Realize download do arquivo: [Workshop OAC Financeiro](https://objectstorage.us-ashburn-1.oraclecloud.com/n/idi1o0a010nx/b/Fast_Track/o/WK_Financeiro.dva).
+
+
+2.  Na Homepage, há três pontinhos ao lado do ícone do perfil do usuário, o Menu da Página selecione, depois selecione **Importar Pasta de Tabalho/Fluxo...**.
+
+![Importar Workbook](./images/Import1.ImportarWorkbook.png)
+
+3. Selecione o arquivo .dva que foi baixado passo 1 da Tarefa 0. E realize o importe do arquivo WK_Financeiro.
+
+![Selecionar Arquivo](./images/Import2.SelecionarArquivo.png)
+
+4.  Agora vá no Menu de Hamburguer, selecione Dados, na Aba Conjunto de Dados terá um Conjunto de Dados de nome **Workshop - Dados Financiamento** selecione. Irá Abrir uma tela em branco da Pasta de Trabalho (Workbook), para começar o laboratório para criar os suas visualizações.
+![Conjunto de Dados Disponível](./images/Import3.DatasetDisponivel.png)
+![Tela em Branco do Dashboard](./images/Import4.CanvaEmBranco.png)
+
+
+
 ## Tarefa 1: Explorar a Interface
 
 O Oracle Analytics Cloud (OAC) possuí uma interface simples, o que permite navegar rapidamente por suas diversas opções e funcionalidades. Em nossa primeira tarefa exploraremos a interface do Oracle Analytics Cloud dentro de uma pasta de trabalho.
