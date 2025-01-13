@@ -36,7 +36,6 @@ Para iniciar o laboratório, primeiro você irá importar o arquivo a seguir par
 ![Tela em Branco do Dashboard](./images/Import4.CanvaEmBranco.png)
 
 
-
 ## Tarefa 1: Explorar a Interface
 
 O Oracle Analytics Cloud (OAC) possuí uma interface simples, o que permite navegar rapidamente por suas diversas opções e funcionalidades. Em nossa primeira tarefa exploraremos a interface do Oracle Analytics Cloud dentro de uma pasta de trabalho.

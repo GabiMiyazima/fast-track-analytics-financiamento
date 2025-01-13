@@ -19,22 +19,22 @@
             "filename": "../../ft-first-steps-bt/ft-first-steps-bt.md" 
         },
         {
-            "title": "Lab 4: Crie Visualizações - Primeiros Passos",
+            "title": "Lab 2: Crie Visualizações - Primeiros Passos",
             "description": "Explore os recursos do Oracle Analytics Cloud para criar visualizações",
             "filename": "../../ft-create-visualizations/ft-create-visualizations.md"
         },
         {
-            "title": "Lab 5: Crie Visualizações - Avançado",
+            "title": "Lab 3: Crie Visualizações - Avançado",
             "description": "Explora mais os tipos de gráficos oferecidos pelo Oracle Analytics Cloud",
             "filename": "../../ft-advanced-visualizations/ft-advanced-visualizations.md"
         },
         {
-            "title": "Lab 6: Apresentar e Exportar os Dashboards",
+            "title": "Lab 4: Apresentar e Exportar os Dashboards",
             "description": "Conheça as opções de apresentação e exportação disponíveis no Oracle Analytics Cloud (OAC)",
             "filename": "../../ft-presentation/ft-presentation.md"
           },
         {
-            "title": "Lab 7: Atividades Administrativas (Opcional)",
+            "title": "Lab 5: Atividades Administrativas (Opcional)",
             "description": "Aprenda a executar atividades de administração da instância",
             "filename": "../../ft-oac-management/ft-oac-management.md"
         },
