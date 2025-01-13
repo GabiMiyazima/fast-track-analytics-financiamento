@@ -125,5 +125,5 @@ Nesta sessão você aprendeu a realizar tarefas de gerenciamento do Oracle Analy
 
 ## Autoria
 
-- **Autores** - Gabriela Miyazima
+- **Autores** - Breno Comin, Gabriela Miyazima
 - **Último Updated Por/Data** - Gabriela Miyazima, Agosto/2024

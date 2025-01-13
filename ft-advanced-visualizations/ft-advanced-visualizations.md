@@ -208,5 +208,5 @@ Nesta sessão você aprendeu a utilizar recursos avançados para criação de Da
 
 ## Autoria
 
-- **Autores** - Gabriela Miyazima
+- **Autores** - Guilherme Galhardo, Gabriela Miyazima
 - **Último Update Por/Data** - Gabriela Miyazima, Agosto/2024

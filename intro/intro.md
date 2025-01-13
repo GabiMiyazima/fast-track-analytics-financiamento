@@ -37,5 +37,5 @@ Por meio deste guia, iremos fornecer laboratórios práticos de:
 
 ## Autoria
 
-- **Autores** - Thais Henrique, Isabela Alvarez, Breno Comin, Isabelle Dias e Guilherme Galhardo
-- **Último Update Por/Date** - Breno Comin, Fev/2023
+- **Autores** - Thais Henrique, Isabela Alvarez, Breno Comin, Isabelle Dias, Guilherme Galhardo e Gabriela Miyazima
+- **Último Update Por/Date** - Gabriela Miyazima, Agosto/2024

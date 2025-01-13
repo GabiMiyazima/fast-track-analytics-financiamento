@@ -122,5 +122,5 @@ Você pode **seguir para o próximo Lab**.
 
 ## Autoria
 
-- **Autores** - Gabriela Miyazima
+- **Autores** - Isabela Alvarez, Gabriela Miyazima
 - **Último Update Por/Data** - Gabriela Miyazima, Agosto/2024

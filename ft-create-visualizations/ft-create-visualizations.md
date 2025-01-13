@@ -391,5 +391,5 @@ Nesta sessão você aprendeu a criar um dashboard com visualizações básicas d
 
 ## Autoria
 
-- **Autores** - Gabriela Miyazima
+- **Autores** - Thais Henrique, Gabriela Miyazima
 - **Último Updated Por/Data** - Gabriela Miyazima, Agosto/2024

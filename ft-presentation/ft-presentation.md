@@ -142,5 +142,5 @@ Nesta sessão você aprendeu a configurar o modo de apresentação e aprendeu a 
 
 ## Autoria
 
-- **Autores** - Gabriela Miyazima
+- **Autores** - Isabelle Dias, Gabriela Miyazima
 - **Último Updated Por/Data** - Gabriela Miyazima, Agosto/2024
